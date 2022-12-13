@@ -10,6 +10,7 @@
 
       def __init__(self):
           self.name = "Mutasim"
+          self.age = 19
           self.role = "Front-end developer"
           self.language_spoken = ["ru", "en", "ar", "pe"]
 
