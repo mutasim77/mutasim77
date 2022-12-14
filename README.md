@@ -7,7 +7,7 @@
 
 ```python
   class FrontEndDeveloper:
-
+  
       def __init__(self):
           self.name = "Mutasim"
           self.age = 19
@@ -16,8 +16,8 @@
 
       def say_hi(self):
           print("Thanks for visiting, hope you find some of my work interesting.")
-
-
+          
+          
   me = FrontEndDeveloper()
   me.say_hi()
 ```
