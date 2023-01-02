@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
-
+<div style="display: flex; flex-direction: row-reverse; align-items:center; justify-conten: center;">
 ```python
   class FrontEndDeveloper:
   
@@ -23,7 +23,7 @@
   me = FrontEndDeveloper()
   me.say_hi()
 ```
-
+</div>
 
 ### Skill
  <div>
