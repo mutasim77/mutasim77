@@ -2,8 +2,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
+  <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=E5FFCC&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dcrossoverjie&longCache=true"/>
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+
 
 ```python
   class FrontEndDeveloper:
@@ -21,3 +23,14 @@
   me = FrontEndDeveloper()
   me.say_hi()
 ```
+
+
+### Skill
+ <div>
+    <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
+    <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
+    <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white">
+    <img src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat">
+    <img src="https://img.shields.io/badge/-React-555.svg?logo=react&style=flat">
+</div>
