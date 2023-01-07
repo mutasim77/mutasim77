@@ -1,3 +1,5 @@
+![Hello](https://user-images.githubusercontent.com/96326525/211150106-ef311470-ade8-447f-8501-99670ebe3767.gif)
+
 # Hello there 👋
 
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
