@@ -1,6 +1,4 @@
-![Hello](https://user-images.githubusercontent.com/96326525/211150106-ef311470-ade8-447f-8501-99670ebe3767.gif)
-
-# Hello there 👋
+![Hello](https://user-images.githubusercontent.com/96326525/211150361-e4b1b881-f322-4689-bd3b-173764ffa1e5.gif)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 ![](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
