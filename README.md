@@ -1,6 +1,6 @@
-<center>
+<h1 align="center">
   <img align="center" src="https://user-images.githubusercontent.com/96326525/211150361-e4b1b881-f322-4689-bd3b-173764ffa1e5.gif" alt="hello" width="400px">
-</center>
+</h1>
 <hr>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
