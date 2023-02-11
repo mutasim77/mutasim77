@@ -22,7 +22,7 @@
           self.language_spoken = ["ru", "en", "ar", "pe"]
 
       def say_hi(self):
-          print("Thanks for visiting, hope you find some of my work interesting.")
+          print("Thanks for stopping by. I hope you find some of my work interesting.")
           
          
   me = FrontEndDeveloper()
