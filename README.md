@@ -11,21 +11,22 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
-```python
-  class FrontEndDeveloper:
-  
-      def __init__(self):
-          self.name = "Mutasim"
-          self.age = 20
-          self.role = "Front-end developer"
-          self.language_spoken = ["ru", "en", "pe", "ar"]
+```js
+class FrontEndDeveloper {
+    constructor() {
+        this.name = "Mutasim";
+        this.age = 20;
+        this.role = "Front-end developer";
+        this.language_spoken = ["en", "ru", "fa"];
+    }
 
-      def say_hi(self):
-          print("Thanks for stopping by. I hope you find some of my work interesting.")
-          
-         
-  me = FrontEndDeveloper()
-  me.say_hi()
+    sayHi() {
+        console.log("Thanks for stopping by. I hope you find some of my work interesting.");
+    }
+}
+
+const me = new FrontEndDeveloper();
+me.sayHi();
 ```
 
 </div>
