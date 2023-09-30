@@ -4,7 +4,7 @@
 <hr>
 
 ![](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
-<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=E5FFCC&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dcrossoverjie&longCache=true"/>
+![GitHub followers](https://img.shields.io/github/followers/mutasim77?label=GitHub%20Followers&logo=github&color=red)
 ![](https://komarev.com/ghpvc/?username=mutasim77&color=red)
 
 <div style="display: flex; flex-direction: row-reverse; align-items:center; justify-conten: center;">
@@ -73,6 +73,14 @@ me.sayHi();
     height="30" 
     width="40" />
 </a>
+<a href="https://www.reddit.com/user/mvtasim" target="_blank">
+    <img 
+    align="center" 
+    src="https://github.com/mutasim77/mutasim77/assets/96326525/a912302c-3541-4bdd-b2e1-e100ed1ecaa7"     
+    alt="RedditIcon" 
+    height="30" 
+    width="40" />
+</a>
 <a href="https://github.com/mutasim77" target="_blank">
   <img 
     align="center" 
@@ -81,3 +89,4 @@ me.sayHi();
     height="30" 
     width="40" />
 </a>
+
