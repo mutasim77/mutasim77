@@ -57,6 +57,7 @@ me.sayHi();
 
 
 ### Get in touch:
+
 <a href="https://twitter.com/mvtasim77" target="_blank">
   <img 
     align="center" 
@@ -65,6 +66,7 @@ me.sayHi();
     height="30" 
     width="40" />
 </a>
+
 <a href="https://discordapp.com/users/mvtasim" target="_blank">
   <img 
     align="center" 
@@ -73,7 +75,8 @@ me.sayHi();
     height="30" 
     width="40" />
 </a>
-<a href="https://www.reddit.com/user/mvtasim" target="_blank">
+
+<a href="https://reddit.com/user/mvtasim">
     <img 
     align="center" 
     src="https://github-production-user-asset-6210df.s3.amazonaws.com/96326525/271745905-a912302c-3541-4bdd-b2e1-e100ed1ecaa7.svg"     
@@ -81,6 +84,7 @@ me.sayHi();
     height="30" 
     width="40" />
 </a>
+
 <a href="https://github.com/mutasim77" target="_blank">
   <img 
     align="center" 
