@@ -51,3 +51,33 @@ me.sayHi();
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Yarn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Webpack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" style="padding-right:10px;" />
+
+</br>
+</br>
+
+
+### Get in touch:
+<a href="https://twitter.com/mvtasim77" target="_blank">
+  <img 
+    align="center" 
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"     
+    alt="TwitterIcon" 
+    height="30" 
+    width="40" />
+</a>
+<a href="https://discordapp.com/users/mvtasim" target="_blank">
+  <img 
+    align="center" 
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"     
+    alt="DiscordIcon" 
+    height="30" 
+    width="40" />
+</a>
+<a href="https://github.com/mutasim77" target="_blank">
+  <img 
+    align="center" 
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"     
+    alt="GithubIcon" 
+    height="30" 
+    width="40" />
+</a>
