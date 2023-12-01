@@ -16,7 +16,7 @@ class FrontEndDeveloper {
     constructor() {
         this.name = "Mutasim";
         this.age = 20;
-        this.role = "Front-end developer";
+        this.role = "Web developer";
         this.language_spoken = ["en", "ru", "fa"];
     }
 
