@@ -49,7 +49,7 @@ me.sayHi();
 <img align="left" alt="Webpack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
-<img align="left" alt="TailwindCss" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="TailwindCss" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MUI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" style="padding-right:10px;" />
 
 </br>
